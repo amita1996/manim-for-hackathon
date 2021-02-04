@@ -1,2 +1,2 @@
 # manim-for-hackathon
-Manim videos for "Hackathon Albert Einstein" project.
+Manim videos for a project as part of the "Albert Einstein Hackathon".
